@@ -25,7 +25,7 @@ h3 {
 
 main { 
     display: grid;
-    grid-template-columns: 28% 72%;
+    grid-template-columns: 33% 67%;
     margin-top: 2.5em;
 }
 header {
@@ -44,12 +44,13 @@ i {
 p {
     margin: .15em auto
 }
-
-th, td {
-    font-size: 13px;
-    
-  }
-
+.skills ul{
+    column-count: 2;
+    padding-left: 0.5em;
+}
+.skills li{
+    margin: 5;
+}
 hr {
     border: none;
     background-color: lightgray;
