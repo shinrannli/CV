@@ -64,7 +64,7 @@ h1, h2, h3 {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
-#exp,#proj{
+#exp,#proj,#work,#volun{
     padding-bottom: 0.2em;
 }
 .curriculum ul {
